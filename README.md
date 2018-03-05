@@ -1,1 +1,2 @@
-# administracion_de_dominios
+# Administración de dominios
+## A)	Se han implementado dominios.
