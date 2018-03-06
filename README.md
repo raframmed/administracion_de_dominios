@@ -10,4 +10,4 @@ el Active Directory.
 ### Asignación de dirección IP, máscara de red y servidor DNS al servidor
 Antes de crear un domino deberemos asignar una dirección IP al adaptador de red junt con su máscara de red y también 
 un servidor DNS para que el servidor pueda tener acceso a internet. Para ello haremos uso del *sconfig.md*. Al ejecutarlo nos encontraremos lo siguiente:
-![alt text](https://github.com/raframmed/administracion_de_dominios/assets/images/sconfig_cdm.png "sconfig.cmd")
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/sconfig_cmd.png "sconfig.cmd")
