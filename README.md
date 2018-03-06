@@ -1,3 +1,11 @@
+# Administración de Dominos
+En este documento aprenderemos a administrar dominios y los accesos al dominio en Windows Server 2016.
+
+Para ello deberemos realizar los siguientes apartados:
+https://github.com/raframmed/administracion_de_dominios/edit/master/README.md#A
+
+
+
 # A)	Se han implementado dominios.
 Un Dominio es una colección de objetos dentro del directorio que forman un subconjunto administrativo. 
 Pueden existir diferentes dominios dentro de un bosque, cada uno de ellos con su propia colección de objetos y 
