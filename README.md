@@ -14,10 +14,10 @@ nos encontraremos lo siguiente:
 
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/sconfig_cmd.png "sconfig.cmd")
 
-Como podemos observar en mi caso ya tengo configurada una dirección IP con su máscara y un servidor DNS. Para ello deberemos 
-seleccionar la opción 8 del menú que se nos muestra, la cual nos llevará al siguiente submenú:
+Seleccionamos la opción 8 del menú que se nos muestra, la cual nos llevará al siguiente submenú:
 
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/adaptador_sconfig.png "adaptador_sconfig.cmd")
 
+Como podemos observar en la siguiente imagen, ya tengo configurada una dirección IP con su máscara y un servidor DNS. Para ello deberemos usar las opciones 1 y 2 de este submenú. La opción 1 nos permite asignar una dirección IP y una máscara de red, y en la opción asignaremos una dirección de DNS.
 
 
