@@ -19,4 +19,10 @@ Seleccionamos la opción 8 del menú que se nos muestra, la cual nos llevará al
 
 Como podemos observar en la siguiente imagen, ya tengo configurada una dirección IP con su máscara y un servidor DNS. Para ello deberemos usar las opciones 1 y 2 de este submenú. La opción 1 nos permite asignar una dirección IP y una máscara de red, y en la opción asignaremos una dirección de DNS.
 
+## Instalación del rol de Servicios de dominio de Active Directory
+Para comenzar deberemos ejecutar powershell, una vez dentro ejecutaremos ```Install-WindowsFeature -Name AD-Domain-Services -IncludeManagementTools``` para 
+instalar la característica AD-Domain-Services y todas las herramientas de gestion que incluyen ManagementTools.
+   
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/Install-Ad-domain-services.png "adaptador_sconfig.cmd")
+
 
