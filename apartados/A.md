@@ -29,3 +29,5 @@ para instalar la característica AD-Domain-Services y todas las herramientas de 
 ## Promoción del servidor como controlador de dominio
 Para realiar la promoción necesitamos instalar el módulo ADDSDeployement a la sesión de trabajo para poder implementar servicios de dominio de Active directory. Para instalarlo usaremos el comando:   
 ```Import-Module ADDSDeployment```
+
+Una vez instalado tendremos 3 comandos principales entre los cuales se encuentra ```Install-ADDSForest``` 
