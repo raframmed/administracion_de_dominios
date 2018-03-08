@@ -24,10 +24,12 @@ Para comenzar deberemos ejecutar powershell, una vez dentro ejecutaremos
 ```Install-WindowsFeature -Name AD-Domain-Services -IncludeManagementTools```   
 para instalar la característica AD-Domain-Services y todas las herramientas de gestion que incluyen ManagementTools.
    
-![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/Install-Ad-domain-services.png "adaptador_sconfig.cmd")
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/Install-Ad-domain-services.png "dominios")
 
 ## Promoción del servidor como controlador de dominio
 Para realiar la promoción necesitamos instalar el módulo ADDSDeployement a la sesión de trabajo para poder implementar servicios de dominio de Active directory. Para instalarlo usaremos el comando:   
 ```Import-Module ADDSDeployment```
 
-Una vez instalado tendremos 3 comandos principales entre los cuales se encuentra ```Install-ADDSForest``` 
+Una vez instalado tendremos 3 comandos principales entre los cuales se encuentra ```Install-ADDSForest``` que es el que usaremos. Una vez lo escribamos se nos pedirá un nombre para el dominio y una contraseña de administración. Administrados los datos que nos piden se instalará el nuevo Forest (bosque) y se reiniciará el sistema una vez finalizado.
+
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/ADDSForest.png "forest")
