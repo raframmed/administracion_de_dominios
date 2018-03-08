@@ -33,3 +33,10 @@ Para realiar la promoción necesitamos instalar el módulo ADDSDeployement a la 
 Una vez instalado tendremos 3 comandos principales entre los cuales se encuentra ```Install-ADDSForest``` que es el que usaremos. Una vez lo escribamos se nos pedirá un nombre para el dominio y una contraseña de administración. Administrados los datos que nos piden se instalará el nuevo Forest (bosque) y se reiniciará el sistema una vez finalizado.
 
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/ADDSForest.png "forest")
+
+## Comprobación de la promoción
+Para realizar la comprobación ejecutaremos ```sconfig.cmd``` el cual nos mostrara que el dominio ha sido creado.
+
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/comprobacion_dominio.png "comprobacion promocion")
+
+Hecho esto habremos creado el dominio en modo comando sin interfaz gráfica.
