@@ -1,2 +1,3 @@
-# Se han previsto bloqueos de accesos no autorizados al dominio
+# B) Se han administrado cuentas de usuario y cuentas de equipo.
+
 
