@@ -8,6 +8,8 @@ En la carpeta personal creada nos iremos a Propiedades -> Compartir -> Uso compa
 *Compartir esta carpeta*. En nombre del recurso compartido pondremos el nombre de la carpeta, en este caso *Pesonal* y nos iremos a 
 la opción de permisos y eliminaremos el grupo todos, seguidamente le daremos a agregar y donde hay un cuadro de texto escribimos el nombre del usuario que creamos en el apartado anterior. Usaremos la opción comprobar nombres y le daremos a aceptar concediendo permisos a la carpeta.
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/permisos_personal.png "Permisos carpeta compartida")   
+   
+
 Por último Asignamos control total de permisos al usuario agregado sobre la carpeta.
 ## Configurar una carpeta compartida para cada usuario
 
