@@ -17,3 +17,12 @@ Una vez dentro seleccionaremos al usuario o usuarios que van a tener permiso sob
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/compartida2.png "permisos de conexion.") 
 
 ## Acceder desde el equipo cliente a la carpeta compartida
+En este apartado creo una unidad de red de prueba dentro del servidor simulando a un sistema operativo cliente con el que me conectaré a la carpeta compartida. Para ello debemos irnos a *Equipo* -> *Conectar a unidad de red* -> y escribimos la ruta de la carpeta a la que nos vamos a conectar y le damos a *Finalizar* para establecer la unidad de red.
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/unidad.png "Creando unidad de red")
+Una vez hayamos hecho esto en *Equipo* -> *Dispositivos y unidades* deberá de aparecernos la unidad de red como aparece en la imagen:
+
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/unidad1.png "Accediendo a la unidad de red")
+
+Una vez dentro podremos crear archivos y comprobarlo en la carpeta *Personal* de la unidad C que creamos al principio. 
+
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/unidad2.png "carpeta compartida")
