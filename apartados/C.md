@@ -9,12 +9,11 @@ En la carpeta personal creada nos iremos a Propiedades -> Compartir -> Uso compa
 la opción de permisos y eliminaremos el grupo todos, seguidamente le daremos a agregar y donde hay un cuadro de texto escribimos el nombre del usuario que creamos en el apartado anterior. Usaremos la opción comprobar nombres y le daremos a aceptar concediendo permisos a la carpeta.
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/permisos_personal.png "Permisos carpeta compartida")   
    
-
 Por último Asignamos control total de permisos al usuario agregado sobre la carpeta.
 ## Configurar una carpeta compartida para cada usuario
-
-## Acceder desde el equipo cliente a la carpeta compartida
-Una vez creada la carpeta contenedora, tendremos que configurar las cuentas de cada usuario para que la utilicen como lugar de almacenamiento en red. Esta tarea la completaremos desde la herramienta *Usuarios y equipos de Active Directory*.
+Una vez creada la carpeta contenedora, tendremos que configurar las cuentas de cada usuario para que la utilicen como lugar de almacenamiento en red. Esta tarea la completaremos desde la herramienta *Usuarios y equipos de Active Directory*, en el menu de herramientas del administrador del servidor.
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/compartida1.png "ajustes para permisos.") 
+Una vez dentro seleccionaremos al usuario o usuarios que van a tener permiso sobre esta carpeta *Personal*. En a configuración usamos la ruta de la carpeta compartida para darle permisos al usuario en el campo *Carpeta particular* -> *Conectar*.
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/compartida2.png "permisos de conexion.") 
 
+## Acceder desde el equipo cliente a la carpeta compartida
