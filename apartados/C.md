@@ -14,5 +14,7 @@ Por último Asignamos control total de permisos al usuario agregado sobre la car
 ## Configurar una carpeta compartida para cada usuario
 
 ## Acceder desde el equipo cliente a la carpeta compartida
-
+Una vez creada la carpeta contenedora, tendremos que configurar las cuentas de cada usuario para que la utilicen como lugar de almacenamiento en red. Esta tarea la completaremos desde la herramienta *Usuarios y equipos de Active Directory*.
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/compartida1.png "ajustes para permisos.") 
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/compartida2.png "permisos de conexion.") 
 
