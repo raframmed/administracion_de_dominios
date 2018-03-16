@@ -40,3 +40,5 @@ Para realizar la comprobación ejecutaremos ```sconfig.cmd``` el cual nos mostra
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/a/comprobacion_dominio.png "comprobacion promocion")
 
 Hecho esto habremos creado el dominio en modo comando sin interfaz gráfica.
+
+[Volver al índice](https://github.com/raframmed/administracion_de_dominios)
