@@ -1,4 +1,5 @@
 # Se ha centralizado la información personal de los usuarios del dominio mediante el uso de perfiles móviles y carpetas personales.   
+# Capetas personales
 ## Crear en el servidor la carpeta contenedora
 Crearemos una carpeta en la raíz de la unidad donde tengamos instalado el servidor. En mi caso he creado una carpeta llamada Personal.
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/carpeta_personal.png "Crear carpeta en la raiz")
@@ -26,3 +27,38 @@ Una vez hayamos hecho esto en *Equipo* -> *Dispositivos y unidades* deberá de a
 Una vez dentro podremos crear archivos y comprobarlo en la carpeta *Personal* de la unidad C que creamos al principio. 
 
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/unidad2.png "carpeta compartida")
+
+# Perfiles móviles
+## Carpeta para perfiles de usurio
+Con la carpeta *Personal* ya creada procederemos a la creación de los perfiles móviles. Para ello nos dirigiremos a esta carpeta y dentro de ella creamos una carpeta llamada por ejemplo *perfiles*.
+
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/perfiles1.png "perfiles")
+
+Una vez hecho esto entraremos en *Propiedades* -> *Compartir* -> *Uso compartido avanzado* y habilitamos la opción compartir esta carpeta, tras esto pulsamos en *Permisos* -> *Agregar* y en el cuadro te texto agregamos al grupo o usuario que van a accerder al perfil. En mi caso he añadido un usuario.
+
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/perfiles2.png "perfiles")
+
+Tras esto aceptamos las configuraciones, quitamos al grupo *Todos* de los permisos de la carpeta y añadimos los permisos al grupo o usuario que hemos añadido.
+
+## Cambiar el lugar donde el usuario o los usuarios guardan su perfil
+Para crear un perfil, volveremos a la consola *Usuarios y equipos de Active Directory* y localizamos el usuario o grupo a los que queremos asignar el perfil móvil. Una vez ahí selecciona el usuario o grupo y entramos en *Propiedades* -> *Perfil* y escribimos la ruta que tendrá la carpeta del usuario dentro de esta subcarpeta del servidor.
+
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/perfiles3.png "perfiles")
+
+Una vez hecho esto tendremos nuestro perfil creado y listo, solo nos queda ir a comprobar si se ha creado la carpeta del usuario dentro de la subcarpeta Perfiles.
+
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/perfiles4.png "perfiles")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
