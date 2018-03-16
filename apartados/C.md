@@ -50,15 +50,4 @@ Una vez hecho esto tendremos nuestro perfil creado y listo, solo nos queda ir a 
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/c/perfiles4.png "perfiles")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+[Volver al índice](https://github.com/raframmed/administracion_de_dominios)
