@@ -12,3 +12,6 @@ Una vez dentro de *Usuarios y equipos de Active Directory* a las propiedades del
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/d/agregar_miembros.png "agregar miembros")
 
 Si quisieramos agregar miembros ya pertenecientes a otros grupos usaremos la etiqueta *Miembros de* y realizaremos los mimos pasos que más arriba.
+
+
+[Volver al índice](https://github.com/raframmed/administracion_de_dominios)
