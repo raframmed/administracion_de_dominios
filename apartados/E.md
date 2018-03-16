@@ -15,3 +15,6 @@ Una vez creado el usuario entraremos en *Propiedades* del usuario creado y nos i
 Si le damos a *Aplicar* podremos observar como en este caso el *%username%* cambia a usr_plantilla que es el nombre que le he dado al usuario plantilla.
 
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/e/usr_plantilla4.png "Creando usuario plantilla")
+
+
+[Volver al índice](https://github.com/raframmed/administracion_de_dominios)
