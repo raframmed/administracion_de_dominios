@@ -18,4 +18,9 @@ Para ello deberemos realizar los siguientes apartados:
 [G) Se han utilizado máquinas virtuales para administrar dominios y verificar su funcionamiento.](https://github.com/raframmed/administracion_de_dominios/blob/master/apartados/G.md)
 
 [H) Se ha documentado la estructura del dominio y las tareas realizadas.](https://github.com/raframmed/administracion_de_dominios/blob/master/apartados/H.md)
-
+   
+   
+   
+   
+   
+Creador: [Rafael Ramírez Medina](https://github.com/raframmed)
