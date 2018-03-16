@@ -8,4 +8,12 @@ Para la realización de este documento orientativo sobre como crear y administra
 
 La configuración realizada en virtual box para virtualizar Microsoft Windows Server es la siguiente:
 
-![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/f/unidad_organizativa.png "Creando unidad organizativa")
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/g/vb.png "Configuración virutal box")
+
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/g/vb2.png "Configuración virutal box")
+
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/g/vb3.png "Configuración virutal box")
+
+![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/g/vb4.png "Configuración virutal box")
+
+El resto de opciones han sido creadas como vienen por defecto al crear una máquina virtual.
