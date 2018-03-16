@@ -28,3 +28,6 @@ Para obtener estos privilegios iremos a la pestaña *Ver* de la interfaz de *Usu
 Una vez hecho esto podremos eliminar la unidad como se describió al principio de este subapartado y aceptando la eliminación de la unidad.
 
 ![alt text](https://github.com/raframmed/administracion_de_dominios/blob/master/assets/images/f/unidad_organizativa5.png "Eliminando unidad organizativa")
+
+
+[Volver al índice](https://github.com/raframmed/administracion_de_dominios)
